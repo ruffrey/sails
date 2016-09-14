@@ -39,7 +39,7 @@
     "ejs": "~0.8.4",
     "ejs-locals": "~1.0.2",
     "express": "^3.21.2",
-    "express-handlebars": "~1.0.1",
+    "express-handlebars": "^3.0.0",
     "fs-extra": "~0.8.1",
     "glob": "^7.0.6",
     "grunt": "^0.4.5",
